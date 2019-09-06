@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5d7202fe3d793522f4b0071c"},"film":"The Godfather","acteurs":["Al Pacino","Marlon Brando","Robert Duvall"]}
+{"_id":{"$oid":"5d7203b2a9f8f922f41ad440"},"film":"Schindler's List","acteurs":["Liam Neeson","Ralph Fiennes","Ben Kingsley"]}
+{"_id":{"$oid":"5d7203d6a9f8f922f41ad441"},"film":"Saving Private","acteurs":["Ryan Tom Hanks","Matt Damon","Vin Diesel"]}
+{"_id":{"$oid":"5d7203f5a9f8f922f41ad442"},"film":"Back to the Future","acteurs":["Michael J. Fox","Christopher Lloyd","Lea Thompson"]}
+{"_id":{"$oid":"5d720419a9f8f922f41ad443"},"film":"Casablanca","acteurs":["Ingrid Bergman","Humphrey Bogart","Peter Lorre"]}
+{"_id":{"$oid":"5d720431a9f8f922f41ad444"},"film":"The Big Lebowski","acteurs":["Julianne Moore","Jeff Bridges","Tara Reid"]}
+{"_id":{"$oid":"5d720445a9f8f922f41ad445"},"film":"Lost in translation","acteurs":["Bill Murray","Scarlett Johansson"]}
